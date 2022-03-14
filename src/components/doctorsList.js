@@ -12,7 +12,6 @@ export default class DoctorsList extends Component{
         }
     }
     componentDidMount(){
-        console.log("props ",this.props.user)
         fetch(this.state.url)
         .then(res=>{
             return res.json()
