@@ -1,0 +1,53 @@
+{
+  "doctor": [
+    {
+      "id": 1,
+      "name": "Ahmed Ali",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcg4Y51XjQ-zSf87X4nUPTQzsF83eFdZswTg&usqp=CAU",
+      "specialization": "Allergist",
+      "experience": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id": 2,
+      "name": "Adel Ali",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcg4Y51XjQ-zSf87X4nUPTQzsF83eFdZswTg&usqp=CAU",
+      "specialization": "Allergist",
+      "experience": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id": 3,
+      "name": "Nada Tarek",
+      "picture": "http://www.venmond.com/demo/vendroid/img/avatar/big.jpg",
+      "specialization": "Allergist",
+      "experience": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id": 4,
+      "name": "Malak Wael",
+      "picture": "http://www.venmond.com/demo/vendroid/img/avatar/big.jpg",
+      "specialization": "Cardiologist",
+      "experience": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id": 5,
+      "name": "Mohamed Mohamed",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcg4Y51XjQ-zSf87X4nUPTQzsF83eFdZswTg&usqp=CAU",
+      "specialization": "Cardiologist",
+      "experience": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id": 6,
+      "name": "Wael Mohamed",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcg4Y51XjQ-zSf87X4nUPTQzsF83eFdZswTg&usqp=CAU",
+      "specialization": "Cardiologist",
+      "experience": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id": 7,
+      "name": "Mostafa Ali",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcg4Y51XjQ-zSf87X4nUPTQzsF83eFdZswTg&usqp=CAU",
+      "specialization": "Nephrologist",
+      "experience": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+  ]
+}
